@@ -1,2 +1,2 @@
-# mediamanager
-a simple media manager
+# Media Manager
+A simple application to sort, track & identify your downloaded shows.
