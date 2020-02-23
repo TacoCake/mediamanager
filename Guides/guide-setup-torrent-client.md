@@ -1,4 +1,4 @@
-# Guide to setting up a torrenting client.
+# Guide to setting up a torrent client.
 
 
 ## Note this guide is UNFINISHED
