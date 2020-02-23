@@ -9,8 +9,9 @@ For exemple,
 ---
 The show 'Is it wrong to pick-up girls in a dungeon?' has both an **abridged** name and an **alias**.
 >**Alias**: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka      *(The japanese version of the name)*
+
 >**Abridged**: Dan-machi       *(The shortened version of the japanese name, easier for googling)*
->
+
 >**note if the english name is the 'name', like in this exemple, then the alias will be the japanese name, and vice-versa**
 ---
 Without setting these extra bits of information, the program can't possibly know if a file belongs to a certain show, since it doesn't have the same **name**.
