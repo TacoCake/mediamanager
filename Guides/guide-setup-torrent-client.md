@@ -8,4 +8,4 @@
 ### 1. Downloading & Choosing the right client
 
 First of all, there are many, many, **MANY** torrent clients (For exemple: UTorrent, Bittorrent, Deluge, etc), but not all torrent clients have the same features. Some of them have ads and track your downloads.
-_Personaly_ I use [qbittorent](https://www.qbittorrent.org/) which is an open-source torrent-client without any ads. *_More importantly_*, it gives you the option to **encrypt** the torrenting traffic.
+_Personaly_ I use [qbittorent](https://www.qbittorrent.org/) which is an open-source torrent-client without any ads. **_More importantly_**, it gives you the option to **encrypt** the torrenting traffic.
