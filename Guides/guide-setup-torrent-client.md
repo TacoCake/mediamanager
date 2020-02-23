@@ -1,8 +1,8 @@
 # Guide to setting up a torrent client.
 
-
+---
 ## Note this guide is UNFINISHED
-
+---
 
 
 ### 1. Downloading & Choosing the right client
