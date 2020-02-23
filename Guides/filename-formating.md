@@ -14,7 +14,11 @@ The show 'Is it wrong to pick-up girls in a dungeon?' has both an **abridged** n
 
 >**note if the english name is the 'name', like in this exemple, then the alias will be the japanese name, and vice-versa**
 ---
+
 Without setting these extra bits of information, the program can't possibly know if a file belongs to a certain show, since it doesn't have the same **name**.
+
+**To add or change these bits of information** just click on the show card (**the one with the correct name**) then click on the '**Edit**' button, and change the respective information using the text boxes.
+>Information changes will save once you change pages.
 
 Please follow the rest of the guide **until the very last step to ensure the best use of the program**
 
