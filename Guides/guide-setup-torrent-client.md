@@ -17,4 +17,5 @@ Before we enable encryption you might want to know what it actually does. Well f
 *Unecrypted traffic* is less common than encrypted traffic since it's safer to use encryption over nothing at all. However, by default, most torrenting client allow it by default.
 
 *Encrypted traffic* basically hides the current data that you are torrenting from anyone looking in on your internet traffic. (I.E. Your ISP)
-\n\r **Important note: however, anyone _inside_ the peers list, can easily see your IP in the peers list. \n\r Which is why it is recommended to get a VPN for torrenting**
+>**Important note: however, anyone _inside_ the peers list, can easily see your IP in the peers list. 
+>Which is why it is recommended to get a VPN for torrenting**
