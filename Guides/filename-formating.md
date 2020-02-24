@@ -5,8 +5,9 @@ When you have a downloaded show that isn't being correctly parsed or identified,
 ## Alias & Abridged names
 >if your mislabeled show has both of these, ignore this step
 
-#### Most times when a show isn't being correctly identified it's because the show doesn't have an **abridged** name or an **alias**. The 'name' value is set automatically by the program, and by default the **abridged** and **alias** are the same as the **name**.
+Most times when a show isn't being correctly identified it's because the show doesn't have an **abridged** name or an **alias**. The 'name' value is set automatically by the program, and by default the **abridged** and **alias** are the same as the **name**.
 For exemple,
+
 ---
 The show 'Is it wrong to pick-up girls in a dungeon?' has both an **abridged** name and an **alias**.
 >**Alias**: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka      *(The japanese version of the name)*
