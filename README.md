@@ -1,5 +1,5 @@
-This program is not available for download yet.
+#This program is not available for download yet.
 
 
-# Media Manager
+### Media Manager
 A simple application to sort, track & identify your downloaded shows.
