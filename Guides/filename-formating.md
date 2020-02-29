@@ -1,5 +1,9 @@
 # Guide to format your files in the event they incorrectly parse.
 
+---
+## Note this guide is UNFINISHED
+---
+
 When you have a downloaded show that isn't being correctly parsed or identified, please refer to this guide.
 
 ## Alias & Abridged names
