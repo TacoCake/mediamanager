@@ -4,5 +4,4 @@ This is because I do not think the program is in an acceptable state for casual 
 ### Media Manager
 A simple application to sort, track & identify your downloaded shows.
 
-Inline-style: 
 ![alt text](https://raw.githubusercontent.com/TacoCake/mediamanager/master/.github/Media_Manager_jW7gWFpFQq.jpg "Preview")
