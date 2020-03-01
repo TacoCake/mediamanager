@@ -3,3 +3,6 @@ This is because I do not think the program is in an acceptable state for casual 
 ***
 ### Media Manager
 A simple application to sort, track & identify your downloaded shows.
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Preview")
